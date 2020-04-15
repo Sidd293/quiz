@@ -82,6 +82,7 @@ sp=70
 
 
 function draw() {
+  scale(2)
   background(255);
  image(bg,0,0,width,height)
   rect(0,120,width,30)
